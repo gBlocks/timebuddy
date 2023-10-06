@@ -6,13 +6,13 @@ Welcome to Time Buddy - Follow this quick guide to efficiently add, manage, and 
 
 ## Filling Timesheet Entries for a Week
 
-### 1. Navigate to Timesheet Section:
+### 1. Navigate to Calendar Section:
 
-Open the app and navigate to the "Timesheet" section.
+Open the app and navigate to the "Calendar" section.
 
 ### 2. Choose Date Range:
 
-Use the calendar view or date pickers to choose the date for which you want to fill timesheet entries.
+Use the calendar view to choose the date for which you want to fill timesheet entries.
 
 ## Filling Timesheet Bulk Entries for a Month
 
@@ -40,7 +40,7 @@ Ensure there are no duplicate timesheet entries for the same date. If you encoun
 
 ### 6. Submitting Timesheets for Approval:
 
-Once you've added all your entries, go to the main menu and select "Submit Timesheet." Verify all entries and choose the cloud upload icon from any entry to submit all entries in the list.
+Once you've added all your entries, go to the main menu and select "Submit Timesheet". Verify all entries and choose the cloud upload icon from any entry to submit all entries in the list.
 
 ## Feedback
 
